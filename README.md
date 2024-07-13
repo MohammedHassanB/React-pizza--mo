@@ -1,2 +1,2 @@
 #A simple web project based on reactjs
-# project url:
+# project url:https://react-pizza-mo.netlify.app/
